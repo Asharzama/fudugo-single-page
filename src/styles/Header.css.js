@@ -33,7 +33,7 @@ export const Pages = styled.div`
   text-transform: uppercase;
   font-family: "Spectral", serif;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 1.05vw;
   line-height: 138.9%;
   text-align: center;
   background: linear-gradient(
