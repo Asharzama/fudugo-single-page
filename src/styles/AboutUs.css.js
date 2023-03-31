@@ -67,5 +67,7 @@ export const DescriptionText = styled.div`
   img {
     position: absolute;
     right: 0;
+    width: 52vw;
+    height: auto;
   }
 `;
