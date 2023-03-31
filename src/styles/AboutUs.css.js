@@ -46,7 +46,7 @@ export const DescriptionText = styled.div`
     font-family: "Spectral", serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 65px;
+    font-size: 3.4vw;
     line-height: 46px;
     color: #ffffff;
     text-transform: uppercase;
@@ -55,7 +55,7 @@ export const DescriptionText = styled.div`
     font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 1.04vw;
     line-height: 180%;
     color: #ffffff;
     width: 23.1vw;

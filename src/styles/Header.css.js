@@ -85,7 +85,7 @@ export const BrandIcon = styled.div`
 export const Description = styled.div`
   font-style: normal;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 1.3vw;
   line-height: 138.9%;
   font-family: "Spectral", serif;
   text-transform: uppercase;
